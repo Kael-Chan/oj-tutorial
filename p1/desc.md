@@ -1,7 +1,7 @@
 ## Problem 1
 欢迎来到Online Judge的世界。
 
-首先致谢开源的[Sharif Judge](https://github.com/mjnaderi/Sharif-Judge}).
+首先致谢开源的[Sharif Judge](https://github.com/mjnaderi/Sharif-Judge).
 
 当你看到这个页面时，你已经完成了以下步骤：
 
